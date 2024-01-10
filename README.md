@@ -6,3 +6,9 @@ For [this issue](https://github.com/wevm/viem/discussions/1494#discussioncomment
 npm i --legacy-peer-deps
 npx hardhat run scripts/script.ts
 ```
+
+Fix (temporary):
+
+```shell
+npm i --save-dev viem@1
+```
